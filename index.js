@@ -28,23 +28,28 @@ const newspapers = [
     },
     {
     name: 'space',
-    address:'https://www.space.com/science-astronomy',
-    base: 'https://www.space.com'
+    address:'https://www.scientificamerican.com/space-and-physics/',
+    base: 'https://www.scientificamerican.com'
     },
   {
-    name: 'nature',
-    address:'https://www.nature.com/subjects/quantum-physics',
-    base: 'https://www.nature.com'
+    name: 'quanta',
+    address:'https://www.quantamagazine.org/tag/quantum-physics/',
+    base: 'https://www.quantamagazine.org'
     },
      {
     name: 'science',
-    address:'https://www.science.org/topic/category/physics',
-    base: 'https://www.science.org'
+    address:'https://www.sciencenews.org/topic/quantum-physics',
+    base: 'https://www.sciencenews.org/'
     },
-      {
-    name: 'scitech',
-    address:'https://www.scitechdaily.com/tag/quantum-physics/',
-    base: 'https://www.scitechdaily.com'
+       {
+    name: 'fermilab',
+    address:'https://news.fnal.gov/tag/quantum-computing',
+    base: 'https://news.fnal.gov'
+    },
+       {
+    name: 'alice',
+    address:'https://home.cern/science/experiments/alice',
+    base: 'https://home.cern'
     }
 ]
 
