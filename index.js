@@ -22,12 +22,12 @@ const newspapers = [
     base: 'https://home.cern'
     },
     {
-    name: 'new scientist',
+    name: 'newscientist',
     address:'https://www.newscientist.com/article-topic/large-hadron-collider',
     base: 'https://www.newscientist.com'
     },
     {
-    name: 'space.com',
+    name: 'space',
     address:'https://www.space.com/science-astronomy',
     base: 'https://www.space.com'
     },
