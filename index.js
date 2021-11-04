@@ -37,15 +37,15 @@ const newspapers = [
     base: 'https://www.nature.com'
     },
      {
-    name: 'science.org',
+    name: 'science',
     address:'https://www.science.org/topic/category/physics',
     base: 'https://www.science.org'
     },
       {
-    name: 'scitech daily',
-    address:'https://scitechdaily.com/tag/quantum-physics/',
+    name: 'scitech',
+    address:'https://www.scitechdaily.com/tag/quantum-physics/',
     base: 'https://www.scitechdaily.com'
-    },
+    }
 ]
 
 const articles = []
